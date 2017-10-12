@@ -1,4 +1,4 @@
-# Need-sample-code-containing-source code vulenrabilities---WILL-PAY
+# Need-sample-code-containing-source code vulnerabilities---WILL-PAY
 
 Requirements:  Each submission must contain at least (3) files, (2) code snippets and a text file
 1.   Code snippet exhibiting the vulnerability (bad.txt)
